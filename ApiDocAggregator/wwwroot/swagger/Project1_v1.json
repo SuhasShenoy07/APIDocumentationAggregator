@@ -65,7 +65,7 @@
                 "$ref": "#/components/schemas/TemporaryApproverChangeApproveRejectCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/TemporaryApproverChangeApproveRejectCommand"
               }
@@ -113,7 +113,7 @@
                 "$ref": "#/components/schemas/LoginRequest"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/LoginRequest"
               }
@@ -144,7 +144,7 @@
                 "$ref": "#/components/schemas/ForgotPasswordRequest"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/ForgotPasswordRequest"
               }
@@ -175,7 +175,7 @@
                 "$ref": "#/components/schemas/SetPasswordCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/SetPasswordCommand"
               }
@@ -206,7 +206,7 @@
                 "$ref": "#/components/schemas/ChangePasswordCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/ChangePasswordCommand"
               }
@@ -249,7 +249,7 @@
                 "$ref": "#/components/schemas/CCSApproveRejectCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSApproveRejectCommand"
               }
@@ -344,7 +344,7 @@
                 "$ref": "#/components/schemas/CCSBasicInfoInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSBasicInfoInsertCommand"
               }
@@ -390,7 +390,7 @@
                 "$ref": "#/components/schemas/CCSBasicInfoUpdateCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSBasicInfoUpdateCommand"
               }
@@ -461,7 +461,7 @@
                 "$ref": "#/components/schemas/CCSSavePOCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSSavePOCommand"
               }
@@ -509,7 +509,7 @@
                 "$ref": "#/components/schemas/CCSCustomFieldChargesInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSCustomFieldChargesInsertCommand"
               }
@@ -555,7 +555,7 @@
                 "$ref": "#/components/schemas/CCSCustomFieldChargesUpdateCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSCustomFieldChargesUpdateCommand"
               }
@@ -658,7 +658,7 @@
                 "$ref": "#/components/schemas/CCSDocumentSaveCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSDocumentSaveCommand"
               }
@@ -776,7 +776,7 @@
                 "$ref": "#/components/schemas/CCSItemsAndVendorPricesInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSItemsAndVendorPricesInsertCommand"
               }
@@ -822,7 +822,7 @@
                 "$ref": "#/components/schemas/CCSItemsAndVendorPricesUpdateCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSItemsAndVendorPricesUpdateCommand"
               }
@@ -1095,7 +1095,7 @@
                 "$ref": "#/components/schemas/CCSTermsAndConditionInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSTermsAndConditionInsertCommand"
               }
@@ -1141,7 +1141,7 @@
                 "$ref": "#/components/schemas/CCSTermsAndConditionsUpdateCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSTermsAndConditionsUpdateCommand"
               }
@@ -1212,7 +1212,7 @@
                 "$ref": "#/components/schemas/CCSVendorDetailsInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSVendorDetailsInsertCommand"
               }
@@ -1267,7 +1267,7 @@
                 "$ref": "#/components/schemas/CCSVendorDetailsUpdateCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSVendorDetailsUpdateCommand"
               }
@@ -1338,7 +1338,7 @@
                 "$ref": "#/components/schemas/CCSVendorSelectionAndRemarksInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSVendorSelectionAndRemarksInsertCommand"
               }
@@ -1384,7 +1384,7 @@
                 "$ref": "#/components/schemas/CCSVendorSelectionAndRemarksUpdateCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/CCSVendorSelectionAndRemarksUpdateCommand"
               }
@@ -1476,7 +1476,7 @@
                 "$ref": "#/components/schemas/InsertMasterTableDataCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterTableDataCommand"
               }
@@ -1507,7 +1507,7 @@
                 "$ref": "#/components/schemas/UpdateRecordRequest"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdateRecordRequest"
               }
@@ -1659,7 +1659,7 @@
                 "$ref": "#/components/schemas/InsertMasterCustomFieldsCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterCustomFieldsCommand"
               }
@@ -1708,7 +1708,7 @@
                 "$ref": "#/components/schemas/UpdateMasterCustomFieldsCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdateMasterCustomFieldsCommand"
               }
@@ -1906,7 +1906,7 @@
                 "$ref": "#/components/schemas/InsertMasterOrganisationApproverTypeCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterOrganisationApproverTypeCommand"
               }
@@ -2067,7 +2067,7 @@
                 "$ref": "#/components/schemas/InsertMasterPurchaseOrganisationCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterPurchaseOrganisationCommand"
               }
@@ -2113,7 +2113,7 @@
                 "$ref": "#/components/schemas/UpdateMasterPurchaseOrganisationCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdateMasterPurchaseOrganisationCommand"
               }
@@ -2316,7 +2316,7 @@
                 "$ref": "#/components/schemas/InsertMasterUserCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterUserCommand"
               }
@@ -2345,7 +2345,7 @@
                 "$ref": "#/components/schemas/UpdateMasterUserCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdateMasterUserCommand"
               }
@@ -2376,7 +2376,7 @@
                 "$ref": "#/components/schemas/BlockunblockMasterUserCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/BlockunblockMasterUserCommand"
               }
@@ -2456,7 +2456,7 @@
                 "$ref": "#/components/schemas/InsertMasterVendorCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterVendorCommand"
               }
@@ -2485,7 +2485,7 @@
                 "$ref": "#/components/schemas/UpdateMasterVendorCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdateMasterVendorCommand"
               }
@@ -2626,7 +2626,7 @@
                 "$ref": "#/components/schemas/PermanentChangeApproverInsertCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/PermanentChangeApproverInsertCommand"
               }
@@ -2723,7 +2723,7 @@
                 "$ref": "#/components/schemas/InsertPriceRangeAndApproverCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertPriceRangeAndApproverCommand"
               }
@@ -2752,7 +2752,7 @@
                 "$ref": "#/components/schemas/UpdatePriceRangeAndApproverCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdatePriceRangeAndApproverCommand"
               }
@@ -2935,7 +2935,7 @@
                 "$ref": "#/components/schemas/InsertMasterProjectWbsCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/InsertMasterProjectWbsCommand"
               }
@@ -2984,7 +2984,7 @@
                 "$ref": "#/components/schemas/UpdateMasterProjectWbsCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/UpdateMasterProjectWbsCommand"
               }
@@ -3198,7 +3198,7 @@
                 "$ref": "#/components/schemas/TemporaryApproverChangeCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/TemporaryApproverChangeCommand"
               }
@@ -3295,7 +3295,7 @@
                 "$ref": "#/components/schemas/ReverseApproverChangeCommand"
               }
             },
-            "application/*+json": {
+            "application/*\u002Bjson": {
               "schema": {
                 "$ref": "#/components/schemas/ReverseApproverChangeCommand"
               }
@@ -5417,7 +5417,7 @@
           },
           "record": {
             "type": "object",
-            "additionalProperties": { },
+            "additionalProperties": {},
             "nullable": true
           }
         },
@@ -6543,7 +6543,7 @@
           },
           "record": {
             "type": "object",
-            "additionalProperties": { },
+            "additionalProperties": {},
             "nullable": true
           }
         },
@@ -8288,7 +8288,7 @@
     "securitySchemes": {
       "Bearer": {
         "type": "apiKey",
-        "description": "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 1safsfsdfdfd\"",
+        "description": "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter \u0027Bearer\u0027 [space] and then your token in the text input below.\r\n\r\nExample: \u0022Bearer 1safsfsdfdfd\u0022",
         "name": "Authorization",
         "in": "header"
       }
@@ -8296,7 +8296,12 @@
   },
   "security": [
     {
-      "Bearer": [ ]
+      "Bearer": []
+    }
+  ],
+  "servers": [
+    {
+      "url": "https://localhost:7078/"
     }
   ]
 }
